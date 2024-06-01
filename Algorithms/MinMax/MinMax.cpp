@@ -1,5 +1,5 @@
 #include <iostream>
-#include "simple-bench.h"
+#include "../../SimpleBench/simple-bench.h"
 
 
 #define ARR_SIZE 100
